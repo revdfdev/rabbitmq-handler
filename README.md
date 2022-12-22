@@ -13,7 +13,7 @@ go mod init example.com/my-awesome-project
 Note that you need to include the **v** in the version tag.
 
 ```
-go get github.com/revdfdev/rabbitmq-handler@v0.0.1
+go get github.com/revdfdev/rabbitmq-handler@v0.0.2
 ```
 
 <!-- ```go
